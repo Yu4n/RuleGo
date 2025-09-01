@@ -1,19 +1,40 @@
 # Proxy
-DOMAIN-SUFFIX,wsj.com
-DOMAIN-SUFFIX,wsj.net
-DOMAIN-SUFFIX,x.co
-DOMAIN-SUFFIX,you-get.org
-DOMAIN-SUFFIX,zaobao.com
-DOMAIN-SUFFIX,zello.com
-DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,z-lib.org
-DOMAIN,lab.skk.moe
-DOMAIN,ocsp.int-x3.letsencrypt.org
-DOMAIN,search.arc.net
+DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,zoom
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,twitch
+DOMAIN-KEYWORD,wikipedia
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,tradingview
+DOMAIN-KEYWORD,imdb
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,yahoo
+# DOMAIN,mypikpak.com
+# DOMAIN-SUFFIX,user.mypikpak.com
+# DOMAIN-SUFFIX,api-drive.mypikpak.com
+# DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-KEYWORD,feixiaohao
+DOMAIN-KEYWORD,bt4g
+DOMAIN-KEYWORD,exchange
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,linkedin
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,coinglass
+DOMAIN-KEYWORD,coinank
+DOMAIN-KEYWORD,v2ex
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,jable
+DOMAIN-KEYWORD,mushroom
+DOMAIN-KEYWORD,fun.xyz
+DOMAIN-KEYWORD,pikpak
+DOMAIN-KEYWORD,oaiusercontent
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,cloudfront
+DOMAIN-KEYWORD,aicoin
 
-# > Akamai
-DOMAIN,a248.e.akamai.net
-DOMAIN,a771.dscq.akamai.net
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
