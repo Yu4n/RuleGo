@@ -34,6 +34,7 @@ DOMAIN-KEYWORD,oaiusercontent
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,aicoin
+DOMAIN-KEYWORD,jv.mp
 
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
@@ -55,23 +56,11 @@ DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
-# > Automattic
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,videopress.com
-DOMAIN-SUFFIX,wordpress.com
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.cn
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,bloomberg.de
-DOMAIN-SUFFIX,bloombergview.com
+
 # > Cloudflare
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,workers.dev
-# > Clubhouse
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,joinclubhouse.com
-DOMAIN,clubhouse.pubnubapi.com
+
 # ---(Crypto)---
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
@@ -167,16 +156,6 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 
-# > The New York Times
-DOMAIN-SUFFIX,newyorktimes.com
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytco.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,nytimg.com
-DOMAIN-SUFFIX,nytlog.com
-DOMAIN-SUFFIX,nytstyle.com
-DOMAIN-SUFFIX,tmagazine.com
-DOMAIN,nytimes.map.fastly.net
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
