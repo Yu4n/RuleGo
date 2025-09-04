@@ -44,6 +44,7 @@ DOMAIN,s3-ap-northeast-1.amazonaws.com
 DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,s3.eu-central-1.amazonaws.com
+
 # > Alphabet
 # DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,apigee.com
@@ -61,62 +62,10 @@ DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,workers.dev
 
-# ---(Crypto)---
-DOMAIN-SUFFIX,bitcointalk.org
-DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-SUFFIX,bitflyer.com
-DOMAIN-SUFFIX,bitget.com
-DOMAIN-SUFFIX,bithumb.com
-DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,crypto.com
-DOMAIN-SUFFIX,dydx.exchange
-DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,gemini.com
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,kucoin.com
-DOMAIN-SUFFIX,mexc.com
-DOMAIN-SUFFIX,probit.com
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,upbit.com
-# > Bybit
-DOMAIN-SUFFIX,byabcde.com
-DOMAIN-SUFFIX,bybdc6.com
-DOMAIN-SUFFIX,bybit.com
-DOMAIN-SUFFIX,bybitglobal.com
-DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
-# > OKX
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-
-# > Fastly
-DOMAIN-SUFFIX,freetls.fastly.net
-DOMAIN-SUFFIX,global.ssl.fastly.net
-
-# > Line
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,naver.jp
-IP-CIDR,103.2.30.0/23,no-resolve
-IP-CIDR,125.209.208.0/20,no-resolve
-IP-CIDR,147.92.128.0/17,no-resolve
-IP-CIDR,203.104.144.0/21,no-resolve
-
 # > OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
-# > Pinterest
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-KEYWORD,.pinterest.
-# > pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,pixivsketch.net
-DOMAIN-SUFFIX,pximg.net
+
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -125,6 +74,7 @@ DOMAIN-SUFFIX,redditmedia.com
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN,store.steampowered.com
+
 # ---(Telegram)---
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
@@ -156,20 +106,6 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 
-# > Wikimedia Foundation
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,wikibooks.org
-DOMAIN-SUFFIX,wikidata.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikimediafoundation.org
-DOMAIN-SUFFIX,wikinews.org
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,wikisource.org
-DOMAIN-SUFFIX,wikiversity.org
-DOMAIN-SUFFIX,wikivoyage.org
-DOMAIN-SUFFIX,wiktionary.org
 # > xAI
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,periscope.tv
